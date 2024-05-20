@@ -34,5 +34,5 @@ def predictImage():
 def index():
     return "Hello World"
 
-# if __name__ == '__main__':
-#     app.run(port=5000)
+if __name__ == '__main__':
+    app.run(port=5000)
